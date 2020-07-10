@@ -19,13 +19,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <scm>
-        <connection>scm:git:git://github.com/Slikey/EffectLib.git</connection>
-        <developerConnection>scm:git:git@github.com:Slikey/EffectLib.git</developerConnection>
-        <url>https://github.com/Slikey/EffectLib/</url>
-        <tag>master</tag>
-    </scm>
-
     <distributionManagement>
         <repository>
             <id>maven.elmakers.com</id>
